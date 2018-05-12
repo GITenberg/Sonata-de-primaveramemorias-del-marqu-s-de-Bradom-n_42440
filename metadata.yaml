@@ -1,0 +1,35 @@
+_repo: Sonata-de-primaveramemorias-del-marqu-s-de-Bradom-n_42440
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42440-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Inclán, Ramón del Valle
+    - Del Valle-Inclán, Ramón
+    - Montenegro, Ramón María del Valle Inclán y
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Valle-Inclan, Ramon del
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2013-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42440'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Spanish fiction -- 20th century'
+title: 'Sonata de primavera: memorias del marqués de Bradomín'
+url: http://www.gutenberg.org/ebooks/42440
